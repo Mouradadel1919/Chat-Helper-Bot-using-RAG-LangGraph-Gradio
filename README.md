@@ -1,6 +1,6 @@
 # Code Helper Bot using RAG and LangGraph
 
-This project implements a code assistant bot capable of generating and explaining code using a Retrieval-Augmented Generation (RAG) architecture integrated with LangGraph. The system combines embeddings, vector search, and a powerful language model to deliver accurate and context-aware code assistance.
+This project implements a code assistant bot capable of generating and explaining code using a Retrieval-Augmented Generation (RAG) architecture integrated with LangGraph. The system combines embeddings, vector search, and a powerful language model to deliver accurate and context-aware code assistance which deployed using Gradio.
 
 ## ChatBot
 
