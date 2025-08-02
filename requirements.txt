@@ -1,0 +1,7 @@
+langchain 
+langchain-community 
+chromadb 
+langgraph
+langchain-openai 
+bitsandbytes
+gradio
