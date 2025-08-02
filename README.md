@@ -2,6 +2,14 @@
 
 This project implements a code assistant bot capable of generating and explaining code using a Retrieval-Augmented Generation (RAG) architecture integrated with LangGraph. The system combines embeddings, vector search, and a powerful language model to deliver accurate and context-aware code assistance.
 
+## ChatBot
+
+
+
+https://github.com/user-attachments/assets/83875370-608e-4db1-ab7f-bb5b8716f716
+
+
+
 ## Overview
 
 The application supports the following capabilities:
@@ -38,3 +46,5 @@ A visual representation of the LangGraph application flow is provided below:
 - **Dataset**: MBPP Dataset test cases for evaluation.
 - **Correctness Metric**: 90% on a selected sample of MBPP tasks.  
 - **Performance Considerations**: Designed for efficient GPU utilization and optimized inference speed.
+
+
