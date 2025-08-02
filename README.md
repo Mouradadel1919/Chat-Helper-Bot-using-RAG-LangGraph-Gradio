@@ -35,5 +35,6 @@ A visual representation of the LangGraph application flow is provided below:
 
 ## Evaluation
 
-- **Accuracy**: 80% on a selected sample of MBPP tasks  
-- **Performance Considerations**: Designed for efficient GPU utilization and optimized inference speed
+- **Dataset**: MBPP Dataset test cases for evaluation.
+- **Correctness Metric**: 90% on a selected sample of MBPP tasks.  
+- **Performance Considerations**: Designed for efficient GPU utilization and optimized inference speed.
